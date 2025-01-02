@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Welcome to My Blog!",
+        "content": "This is the first post on my blog. Feel free to leave a comment!",
+        "comments": ["Great start!", "Looking forward to more posts."]
+    },
+    {
+        "title": "My Second Blog Post",
+        "content": "Here's another update for everyone.",
+        "comments": ["Nice post!", "Keep it coming!"]
+    }
+]
