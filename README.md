@@ -88,7 +88,7 @@ The blog page allows admin users to create new blog posts and provides functiona
 ## Installation and Setup
 
 ### Step 1: Clone the Repository
-```bash
+
 git clone https://github.com/mmacri/Websites.git
 cd Websites
 
