@@ -88,12 +88,12 @@ The blog page allows admin users to create new blog posts and provides functiona
 ## Installation and Setup
 
 ### Step 1: Clone the Repository
-```bash
+
 git clone https://github.com/mmacri/Websites.git
 cd Websites
 
 ### Step 2: File Structure
-```bash
+
 Ensure the following files are present:
 index.html
 portfolio.html
@@ -107,10 +107,10 @@ Go to your repository settings.
 Navigate to the Pages section.
 Select the branch (e.g., main) and root directory.
 Save changes.
-Your site will be live at https://<username>.github.io/<repository>.
+Your site will be live at https://mmacri.github.io/websites.
 
 ### Step 4: Test the Blog
-Visit https://<username>.github.io/<repository>/blog.html.
+Visit https://mmacri.github.io/websites/blog.html.
 Test creating new posts and leaving comments.
 License
 This project is licensed under the MIT License - feel free to use or modify the code for personal or commercial purposes.
